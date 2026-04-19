@@ -1,0 +1,9 @@
+diffusers
+transformers
+accelerate
+torch
+torchvision
+torchaudio
+streamlit
+pyngrok
+pillow
